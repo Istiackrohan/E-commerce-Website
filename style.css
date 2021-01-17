@@ -1,0 +1,25 @@
+body
+{
+    font-family: Century Gothic;
+}
+.col-md-6 > h1
+{
+    font-size: 60px;
+    font-family: Lato Black;
+}
+.btn
+{
+    height: 50px;
+    width: 150px;
+}
+.btn img
+{
+    width: 25px;
+    margin-right: 5px;
+}
+.container .description
+{
+    display: grid;
+    grid-gap: 30px 18px;
+    grid-template-columns: 250px 1fr 1fr;
+}
